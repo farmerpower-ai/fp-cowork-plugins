@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "fp-wiki-github": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/x/repos/readonly",
+      "headers": {
+        "Authorization": "Bearer ${FP_WIKI_GITHUB_TOKEN}"
+      }
+    }
+  }
+}

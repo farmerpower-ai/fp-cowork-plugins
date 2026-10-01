@@ -1,0 +1,8 @@
+{
+  "name": "fp-wiki",
+  "version": "0.1.0",
+  "description": "Ask the Farmer Power wiki (farmerpower-ai/fp-wiki) questions. Reads the wiki through its indexes, fields and links, cites every page used, and writes nothing.",
+  "author": { "name": "Farmer Power" },
+  "repository": "https://github.com/farmerpower-ai/fp-cowork-plugins",
+  "keywords": ["wiki", "okf", "farmer-power"]
+}
