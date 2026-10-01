@@ -1,0 +1,16 @@
+{
+  "name": "fp-cowork-plugins",
+  "owner": {
+    "name": "Farmer Power"
+  },
+  "metadata": {
+    "description": "Claude Cowork plugins for the Farmer Power team"
+  },
+  "plugins": [
+    {
+      "name": "fp-wiki",
+      "source": "./plugins/fp-wiki",
+      "description": "Ask the Farmer Power wiki (farmerpower-ai/fp-wiki) questions, read the Open Knowledge Format way, read-only."
+    }
+  ]
+}
